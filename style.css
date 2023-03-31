@@ -1,0 +1,46 @@
+ html{    
+    font-family:sans-serif;
+    }
+*{
+    box-sizing:border-box;
+}
+
+body{
+background-color: beige;
+
+}
+
+#titulo{
+margin-bottom: 150px;
+background-color:green;
+}
+
+#Menu{
+    margin-top: -130px;
+}
+
+.title{
+    padding-right: 50px;
+    margin:auto;
+    font-size:medium;
+    color:#40ff00;
+}
+a:visited{
+    color:red;
+}
+
+a.hover{
+background-color: blue;
+   
+}
+a.active{
+    color:yellow;
+}
+
+p {
+    font-size: 25px;
+    background: lightgreen;
+}
+@media (max-width: 650px) {
+    
+}
